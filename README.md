@@ -10,9 +10,9 @@ The challenge involves creating and transforming data to represent customer flow
 ---
 
 ## Tools Used
-- **Tool/Language**: (e.g., Python, Excel, Tableau, etc.)
-- **Libraries/Plugins**: (e.g., pandas, matplotlib, etc., if applicable)
-- **Software**: (e.g., Excel for data prep, Tableau for visualization)
+- **Tool/Language**: (e.g., Python, Excel)
+- **Libraries/Plugins**: (e.g., pandas, matplotlib)
+- **Software**: (e.g., Jupyter Lab)
 
 ---
 
